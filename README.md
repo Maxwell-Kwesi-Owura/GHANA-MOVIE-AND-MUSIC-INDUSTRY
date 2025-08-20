@@ -4,18 +4,6 @@
 This project investigates what drives success among Ghanaian celebrities in music and film. Focusing on 30 public figures, we analyzed revenue, awards, professional diversity, gender, and geographic representation to uncover key patterns.
 Using SQL, we built structured tables to organize data on songs, movies, roles, and recognition. Then, with Power BI, we created an interactive dashboard to visualize insights.
 
-📘 Table of Contents
-
-Dataset Description
-SQL Data Modeling
-Table Structures
-Sample Queries
-Power BI Dashboard
-Visualizations
-Key Insights
-Key Findings
-Conclusion & Recommendations
-
 🎯 Objectives
 Analyze success factors in Ghana’s entertainment industry using data from 30 celebrities in music and film.
 
