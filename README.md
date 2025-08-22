@@ -1,5 +1,5 @@
 # GHANA-MOVIE-AND-MUSIC-INDUSTRY
-
+##Table Of Content
 [Project Overview](#ProjectOverview)
 
 [Objectives](#Objectives)
@@ -15,11 +15,11 @@
 [Recommendations](#Recommendations)
 
 
-# Project Overview: Understanding Success in Ghana’s Entertainment Industry
+## Project Overview: Understanding Success in Ghana’s Entertainment Industry
 This project investigates what drives success among Ghanaian celebrities in music and film. Focusing on 30 public figures, we analyzed revenue, awards, professional diversity, gender, and geographic representation to uncover key patterns.
 Using SQL, we built structured tables to organize data on songs, movies, roles, and recognition. Then, with Power BI, we created an interactive dashboard to visualize insights.
 
-# 🎯 Objectives
+## 🎯 Objectives
 
 * Analyze success factors in Ghana’s entertainment industry using data from 30 celebrities in music and film.
 
@@ -33,7 +33,7 @@ Using SQL, we built structured tables to organize data on songs, movies, roles, 
 
 * Provide actionable, data-driven insights to understand what drives fame and financial success.
 
-# Data Source
+## Data Source
 
 The dataset was created through research on various Ghanaian celebrities across the music and film industries. Using SQL, we populated and structured the dataset by extracting relevant information such as:
 
@@ -47,13 +47,13 @@ The dataset was created through research on various Ghanaian celebrities across 
 
 * Movies and songs produced
 
-# Tools Used
+## Tools Used
 
 * SQL – for dataset creation, querying, and structuring.
 
 * Power BI – for initial data cleaning and formatting and building interactive dashboards and visualizations.
 
-# Types of Analysis Used
+## Types of Analysis Used
 
 * Descriptive Analysis – summarizing the distribution of awards, gender, and professions.
 
@@ -63,7 +63,7 @@ The dataset was created through research on various Ghanaian celebrities across 
 
 * Geographical Analysis – identifying celebrity counts by location.
 
-  # Insights
+  ## Insights
 
 * Music dominates Ghana’s entertainment landscape in terms of revenue, awards, and output.
 
@@ -73,7 +73,7 @@ The dataset was created through research on various Ghanaian celebrities across 
 
 * Accra serves as the hub of celebrity activity, hosting the majority of personalities.
 
- # Recommendations
+ ## Recommendations
 
 * Encourage female participation in the industry through mentorship programs and initiatives to close the gender gap.
 
