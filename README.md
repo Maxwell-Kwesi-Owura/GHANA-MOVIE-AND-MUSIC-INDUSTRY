@@ -1,5 +1,7 @@
 # GHANA-MOVIE-AND-MUSIC-INDUSTRY
-##Table Of Content
+
+## Table Of Content
+
 [Project Overview](#ProjectOverview)
 
 [Objectives](#Objectives)
