@@ -79,11 +79,7 @@ The dataset was created through research on various Ghanaian celebrities across 
 
 * Support film industry growth through targeted investments and collaborations to balance industry recognition with music.
 
-
-
-
-
-Explore demographic trends including gender distribution and geographic represen<img width="869" height="489" alt="Screenshot 2025-08-20 095254" src="https://github.com/user-attachments/assets/cfa4d4fc-7b1f-4ac0-a99c-03b1e282cacd" />
+<img width="869" height="489" alt="Screenshot 2025-08-20 095254" src="https://github.com/user-attachments/assets/cfa4d4fc-7b1f-4ac0-a99c-03b1e282cacd" />
 tation.<img width="871" height="479" alt="Screenshot 2025-08-20 095234" src="https://github.com/user-attachments/assets/9c6b1630-9d77-4042-85bf-7e308e3a4c7e" />
 <img width="875" height="493" alt="Screenshot 2025-08-20 095337" src="https://github.com/user-attachments/assets/65b1cf6f-abbb-4829-8e9c-8a3fbb7224a0" />
 
