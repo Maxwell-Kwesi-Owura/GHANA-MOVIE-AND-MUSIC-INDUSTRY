@@ -1,11 +1,17 @@
 # GHANA-MOVIE-AND-MUSIC-INDUSTRY
 
 [Project Overview](#ProjectOverview)
+
 [Objectives](#Objectives)
+
 [Data Source](#DataSource)
+
 [Tools Used](#ToolsUsed)
+
 [Skills_Demonstrated](#Skills_Demonstrated)
+
 [Insights](#Insights)
+
 [Recommendations](#Recommendations)
 
 
@@ -78,6 +84,8 @@ The dataset was created through research on various Ghanaian celebrities across 
 * Develop regional talent hubs outside Accra (e.g., Kumasi, Takoradi) to decentralize opportunities.
 
 * Support film industry growth through targeted investments and collaborations to balance industry recognition with music.
+
+  
 
 <img width="869" height="489" alt="Screenshot 2025-08-20 095254" src="https://github.com/user-attachments/assets/cfa4d4fc-7b1f-4ac0-a99c-03b1e282cacd" />
 tation.<img width="871" height="479" alt="Screenshot 2025-08-20 095234" src="https://github.com/user-attachments/assets/9c6b1630-9d77-4042-85bf-7e308e3a4c7e" />
