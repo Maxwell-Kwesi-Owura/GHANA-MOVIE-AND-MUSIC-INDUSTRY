@@ -14,6 +14,8 @@
 
 [Insights](#Insights)
 
+[Dashboard And Report](#DashboardAndReport)
+
 [Recommendations](#Recommendations)
 
 
