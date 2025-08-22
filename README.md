@@ -132,11 +132,49 @@ Recognition spans across Artist of the Year, Best Actor, Best Actress, and Hip H
 
 <img width="871" height="479" alt="Screenshot 2025-08-20 095234" src="https://github.com/user-attachments/assets/9c6b1630-9d77-4042-85bf-7e308e3a4c7e" />
 
+## 🎶 Music Industry Highlights – Ghana
+This dashboard dives into the revenue dynamics, language trends, and artist performance in Ghana’s post-2015 music scene, offering a sharp lens on what drives profitability and reach.
 
+### 💸 Revenue by Language
+English leads with ₵28.4M, followed by English & Twi. This suggests that linguistic versatility, especially blending local and global languages, boosts commercial success likely due to broader audience appeal across Ghana and the diaspora.
+
+### 🧑‍🎤 Top Artists & Songs
+King Promise and Stonebwoy dominate earnings, each contributing 25–28% of total revenue.
+Songs like “Touch It” and “Therapy” top the profitability chart, each generating ₵15M+, showing that hit singles can drive disproportionate revenue.
+
+### 📈 Release Trends
+Song releases peaked in 2016, then dipped, possibly reflecting shifts in production strategy or market saturation. The post 2015 focus aligns with the rise of digital platforms and streaming.
+
+### 🗣️ Language Diversity
+While English dominates, Twi, Ga, and Fante appear in fewer high-revenue songs. This may indicate under-leveraged cultural niches or a need for better monetization strategies for local-language content.
 
 <img width="875" height="493" alt="Screenshot 2025-08-20 095337" src="https://github.com/user-attachments/assets/65b1cf6f-abbb-4829-8e9c-8a3fbb7224a0" />
 
+## 🎬 Film Industry Highlights – Ghana
+This dashboard explores key metrics in Ghana’s film industry, focusing on revenue, genre performance, language trends, and top-earning stars.
 
+### 💰 Top-Grossing Movies
+"Somewhere in Africa" leads with 1.6M GHC, followed by "Single and Married" and "The Perfect Picture". These titles reflect strong audience engagement and commercial success.
+
+### 📈 Movie Release Trends
+Film releases peaked in 2022, showing a resurgence in production post-pandemic. The upward trend suggests growing investment and audience demand.
+
+### 🎭 Genre-Based Revenue
+Romantic Comedy dominates with 2.5M GHC, outperforming Drama, Comedy, and Horror. This indicates a strong market preference for light-hearted, relatable storytelling.
+
+### 🗣️ Language Revenue Split
+English-language films account for 84% of total revenue, highlighting their broader appeal and export potential. Twi-language films contribute 16%, reflecting local cultural relevance.
+
+### 🌟 Top 5 Earning Stars
+Jackie Appiah: 2.85M GHC
+
+Yvonne Nelson: 2.65M GHC
+
+John Dumelo: 2.55M GHC
+
+Majid Michel: 2.35M GHC
+
+Lydia Forson: 1.55M GHC
 
 <img width="871" height="478" alt="Screenshot 2025-08-20 095321" src="https://github.com/user-attachments/assets/2d947d9b-4936-4052-9b2a-464f362a7ca4" />
 
