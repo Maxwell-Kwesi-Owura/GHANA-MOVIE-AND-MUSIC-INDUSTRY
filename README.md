@@ -106,7 +106,7 @@ The dataset was created through research on various Ghanaian celebrities across 
   
 
 <img width="869" height="489" alt="Screenshot 2025-08-20 095254" src="https://github.com/user-attachments/assets/cfa4d4fc-7b1f-4ac0-a99c-03b1e282cacd" />
-tation.<img width="871" height="479" alt="Screenshot 2025-08-20 095234" src="https://github.com/user-attachments/assets/9c6b1630-9d77-4042-85bf-7e308e3a4c7e" />
+<img width="871" height="479" alt="Screenshot 2025-08-20 095234" src="https://github.com/user-attachments/assets/9c6b1630-9d77-4042-85bf-7e308e3a4c7e" />
 <img width="875" height="493" alt="Screenshot 2025-08-20 095337" src="https://github.com/user-attachments/assets/65b1cf6f-abbb-4829-8e9c-8a3fbb7224a0" />
 
 <img width="871" height="478" alt="Screenshot 2025-08-20 095321" src="https://github.com/user-attachments/assets/2d947d9b-4936-4052-9b2a-464f362a7ca4" />
