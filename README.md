@@ -65,6 +65,22 @@ The dataset was created through research on various Ghanaian celebrities across 
 
 * Geographical Analysis – identifying celebrity counts by location.
 
+ ## Skills Demonstrated
+
+* Data Collection & Structuring using SQL queries to build and populate the dataset.
+
+* Data Cleaning & Preparation in Power BI before visualization.
+
+* Data Visualization & Dashboarding in Power BI to communicate insights effectively.
+
+* Analytical Thinking through descriptive, comparative, and categorical analysis.
+
+* Storytelling with Data by translating numbers into clear insights and recommendations.
+
+* Critical Problem-Solving in identifying patterns, gaps, and actionable strategies.
+
+* Collaboration & Presentation skills gained from working on a group project and presenting findings.
+
   ## Insights
 
 * Music dominates Ghana’s entertainment landscape in terms of revenue, awards, and output.
