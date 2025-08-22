@@ -112,7 +112,23 @@ Accra is the hub, hosting the majority of celebrities. This concentration sugges
 
 <img width="869" height="489" alt="Screenshot 2025-08-20 095254" src="https://github.com/user-attachments/assets/cfa4d4fc-7b1f-4ac0-a99c-03b1e282cacd" />
 
+## 🏆 Awards Highlights – Ghanaian Entertainment Industry
+This dashboard analyzes award distribution among Ghana’s top celebrities, revealing patterns in recognition across professions, gender, and categories.
 
+### 🎤 Profession-Based Recognition
+Musicians dominate the awards scene with 24 wins, compared to 15 for actors. This reinforces music’s stronger visibility and institutional support in Ghana’s entertainment landscape.
+
+### 👑 Most Awarded Celebrities
+Sarkodie leads with the highest number of awards, followed by Stonebwoy and Jackie Appiah. These names reflect consistent excellence and public appeal across both music and film.
+
+### 🏅 Artiste of the Year” Dominance
+This category is the most frequently awarded, with Sarkodie and Stonebwoy each winning it multiple times. It highlights the prestige and competitive nature of top-tier music recognition.
+
+### ⚖️ Gender Disparity
+Awards skew heavily toward male celebrities, indicating a gender gap in recognition. This may reflect broader industry biases or unequal access to high-profile opportunities.
+
+### 📂 Award Categories
+Recognition spans across Artist of the Year, Best Actor, Best Actress, and Hip Hop of the Year, showing a mix of genre-specific and general excellence awards.
 
 <img width="871" height="479" alt="Screenshot 2025-08-20 095234" src="https://github.com/user-attachments/assets/9c6b1630-9d77-4042-85bf-7e308e3a4c7e" />
 
